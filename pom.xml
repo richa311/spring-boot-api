@@ -3,7 +3,7 @@
   <groupId>io.javabrains.springbootquickstart</groupId>
   <artifactId>spring-boot-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Java Brains Course API</name>
+  <name>Spring Boot API</name>
   
 <parent>
 	<groupId>org.springframework.boot</groupId>
